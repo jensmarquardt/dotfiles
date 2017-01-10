@@ -7,7 +7,6 @@ brew cask install appcleaner
 brew cask install dropbox
 brew cask install firefox
 brew cask install google-chrome
-brew cask install hipchat
 brew cask install iterm2
 brew cask install pastebot
 brew cask install phpstorm
