@@ -17,3 +17,4 @@ brew cask install skitch
 brew cask install slack
 brew cask install the-unarchiver
 brew cask install transmit
+brew cask install atom
