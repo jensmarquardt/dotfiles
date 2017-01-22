@@ -12,7 +12,6 @@ brew cask install phpstorm
 brew cask install sequel-pro
 brew cask install sublime-text
 brew cask install spotify
-brew cask install sourcetree
 brew cask install skitch
 brew cask install slack
 brew cask install the-unarchiver
