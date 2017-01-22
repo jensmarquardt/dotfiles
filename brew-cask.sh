@@ -17,3 +17,5 @@ brew cask install slack
 brew cask install the-unarchiver
 brew cask install transmit
 brew cask install atom
+brew cask install tower
+brew cask install adobe-creative-cloud
