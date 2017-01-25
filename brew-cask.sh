@@ -15,7 +15,6 @@ brew cask install sequel-pro
 brew cask install skitch
 brew cask install slack
 brew cask install spotify
-brew cask install sublime-text
 brew cask install the-unarchiver
 brew cask install tower
 brew cask install transmit
