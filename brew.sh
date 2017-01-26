@@ -10,6 +10,7 @@ brew install git
 brew install mas
 brew install node
 brew install zsh
+brew install ack
 
 # Remove outdated versions from the cellar
 brew cleanup
