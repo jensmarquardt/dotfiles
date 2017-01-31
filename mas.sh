@@ -9,10 +9,10 @@ mas install 417375580
 # Blackmagic Disk Speed Test (3.0)
 mas install 425264550
 
-# Tweetbot (2.4.5)
+# Tweetbot (2.4.6)
 mas install 557168941
 
-# Todoist (6.3.18)
+# Todoist (6.3.19)
 mas install 585829637
 
 # Sign out from the Mac App Store
