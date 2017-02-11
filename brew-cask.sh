@@ -9,6 +9,7 @@ brew cask install atom
 brew cask install dropbox
 brew cask install firefox
 brew cask install google-chrome
+brew cask install google-chrome-canary
 brew cask install iterm2
 brew cask install phpstorm
 brew cask install sequel-pro
