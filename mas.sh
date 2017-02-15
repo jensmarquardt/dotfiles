@@ -15,8 +15,5 @@ mas install 557168941
 # Todoist (6.3.19)
 mas install 585829637
 
-# Pocket (1.6.2)
-mas install 568494494
-
 # Sign out from the Mac App Store
 mas signout
