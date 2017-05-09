@@ -6,6 +6,7 @@ brew tap caskroom/cask
 brew cask install adobe-creative-cloud
 brew cask install appcleaner
 brew cask install atom
+brew cask install avocode
 brew cask install dropbox
 brew cask install firefox
 brew cask install google-chrome
