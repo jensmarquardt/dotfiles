@@ -12,7 +12,7 @@ mas install 425264550
 # Tweetbot (2.5.1)
 mas install 557168941
 
-# Todoist (6.3.20)
+# Todoist (7.0.1)
 mas install 585829637
 
 # Sign out from the Mac App Store
