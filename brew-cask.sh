@@ -16,6 +16,5 @@ brew cask install phpstorm
 brew cask install sequel-pro
 brew cask install skitch
 brew cask install spotify
-brew cask install the-unarchiver
 brew cask install tower
 brew cask install transmit
