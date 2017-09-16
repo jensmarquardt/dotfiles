@@ -15,7 +15,6 @@ brew cask install iterm2
 brew cask install phpstorm
 brew cask install sequel-pro
 brew cask install skitch
-brew cask install slack
 brew cask install spotify
 brew cask install the-unarchiver
 brew cask install tower

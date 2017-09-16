@@ -15,5 +15,8 @@ mas install 557168941
 # Todoist (7.0.2)
 mas install 585829637
 
+# Slack (2.8.0)
+mas install 803453959 
+
 # Sign out from the Mac App Store
 mas signout
