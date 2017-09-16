@@ -9,7 +9,7 @@ mas install 417375580
 # Blackmagic Disk Speed Test (3.1)
 mas install 425264550
 
-# Tweetbot (2.5.1)
+# Tweetbot (2.5.2)
 mas install 557168941
 
 # Todoist (7.0.2)
