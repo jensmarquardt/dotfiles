@@ -15,7 +15,7 @@ mas install 557168941
 # Todoist (7.0.3)
 mas install 585829637
 
-# Slack (2.8.0)
+# Slack (2.8.1)
 mas install 803453959 
 
 # The Unarchiver (3.11.3)
