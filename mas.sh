@@ -3,7 +3,7 @@
 # Sign into the Mac App Store
 mas signin …
 
-# BetterSnapTool (1.7)
+# BetterSnapTool (1.8)
 mas install 417375580
 
 # Blackmagic Disk Speed Test (3.1)
