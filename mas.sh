@@ -18,7 +18,7 @@ mas install 585829637
 # Slack (3.0.0)
 mas install 803453959 
 
-# The Unarchiver (3.11.3)
+# The Unarchiver (3.11.5)
 mas install 425424353
 
 # Sign out from the Mac App Store
