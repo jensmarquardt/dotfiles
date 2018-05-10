@@ -12,7 +12,7 @@ mas install 425264550
 # Tweetbot (2.5.4)
 mas install 557168941
 
-# Todoist (7.0.7)
+# Todoist (7.0.12)
 mas install 585829637
 
 # Slack (3.1.1)
